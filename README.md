@@ -1,3 +1,3 @@
-# vitejs-vite-wjwcqe
+# example-column-layout
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-wjwcqe)
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https://pr.new/maiertech/example-column-layout)
